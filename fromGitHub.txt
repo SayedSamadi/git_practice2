@@ -1,0 +1,4 @@
+This is a great file that I added directly from GitHub.com
+And now i am about to commit directly to Github .com remote repository
+This not something we would do normally
+We are just trying simulate a situation where a romote repository
